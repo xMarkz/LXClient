@@ -1,5 +1,5 @@
 # LXClient
 
 Launcher for:
-- www.iHabbol.vg
+- www.iH-Ho.tel
 - www.BSSHotel.it
